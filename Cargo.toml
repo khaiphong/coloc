@@ -1,5 +1,5 @@
 [package]
-name = "co_loc"
+name = "coloc"
 version = "0.1.0"
 edition = "2021"
 
